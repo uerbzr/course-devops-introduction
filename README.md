@@ -6,7 +6,7 @@
 
 ## [2 - Introduction to Github](GITHUB.md)
 
-- Quick runthrough
+- Quick runthrough 
 
 ## [2 - Introduction to Azure Devops](AZUREDEVOPS.md)
 
