@@ -8,6 +8,6 @@
 
 - Quick runthrough 
 
-## [2 - Introduction to Azure Devops](AZUREDEVOPS.md)
+## [3 - Introduction to Azure Devops](AZUREDEVOPS.md)
 
 - Quick runthrough
